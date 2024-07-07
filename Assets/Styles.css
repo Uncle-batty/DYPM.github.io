@@ -1,0 +1,36 @@
+.button {
+    border-radius: 20px;
+}
+
+#home {
+    height: 100vh;
+    width: 100%;
+    align-items: center;
+        align-content: center;
+        justify-content: center;
+}
+
+
+#about {
+    height: 30vh;
+        width: 100%;
+        align-items: center;
+        align-content: center;
+        justify-content: center;
+        padding : 20px;
+}
+#Our-team {
+    background-color: "#8db4ad";
+}
+#All-articals {
+    height: 100vh;
+        width: 100%;
+        padding-block: 20px;
+}
+#New-artical {
+    height: 100vh;
+        width: 100%;
+        align-items: center;
+        align-content: center;
+        justify-content: center;
+}
